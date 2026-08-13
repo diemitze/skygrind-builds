@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/diemitze/skygrind-builds/releases/download/v0.1.0/skygrind-0.1.0.jar",
-  "sha256": "f3c16b7aeb02b904501e504f9670e6aa81d41d2c5b126959229405658dc12f1e",
+  "version": "0.1.1",
+  "url": "https://github.com/diemitze/skygrind-builds/releases/download/v0.1.1/skygrind-0.1.1.jar",
+  "sha256": "e7f64b71f534b4ff4b82b2e39bce3e98b5eec7d748891a9dbec2e342611090ca",
   "notes": "Collections, shop UI, 109 items, self-updating"
 }
